@@ -1,4 +1,4 @@
-# Radial directionality kymograph of cell displacements (applicable to anz vector field)
+# Radial directionality kymograph of cell displacements (applicable to any vector field)
 
 This repository contains an minimum version of the code used to calculate the directionality of cell displacemts calculated over an entire image with respect to the radial direction e.x. cell move towards/outwards a central point. 
 
